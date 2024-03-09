@@ -1,0 +1,162 @@
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\Đồ án.exe.config
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\Đồ án.exe
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\Đồ án.pdb
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\ZedGraph.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\ZedGraph.xml
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\de\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\es\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\fr\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\hu\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\it\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\ja\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\pt\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\ru\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\sk\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\sv\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\tr\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.AssemblyReference.cache
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.SuggestedBindingRedirects.cache
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ_án.Form1.resources
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.exe
+E:\Bai tap\ĐỒ ÁN 1 (Điều khiển động cơ Servo PID)\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.pdb
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\Đồ án.exe.config
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\Đồ án.exe
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\Đồ án.pdb
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\ZedGraph.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\ZedGraph.xml
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\de\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\es\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\fr\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\hu\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\it\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\ja\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\pt\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\ru\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\sk\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\sv\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\tr\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.AssemblyReference.cache
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.SuggestedBindingRedirects.cache
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ_án.Form1.resources
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.exe
+E:\Bai tap\Đồ án\Giao diện (Đồ án)\Đồ án\obj\Debug\Đồ án.pdb
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\Đồ án.exe.config
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\Đồ án.exe
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\Đồ án.pdb
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ_án.Form1.resources
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ án.exe
+C:\Users\Admin\Downloads\Đồ án (1)\Đồ án\obj\Debug\Đồ án.pdb
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\Đồ án.exe.config
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\Đồ án.exe
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\Đồ án.pdb
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\ZedGraph.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\ZedGraph.xml
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ_án.Form1.resources
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ án.exe
+C:\Users\USER\Downloads\30\Đồ án (1)\Đồ án\obj\Debug\Đồ án.pdb
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\Đồ án.exe.config
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\Đồ án.exe
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\Đồ án.pdb
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ_án.Form1.resources
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.exe
+C:\Users\Admin\Downloads\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.pdb
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\Đồ án.exe.config
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\Đồ án.exe
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\Đồ án.pdb
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\ZedGraph.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\ZedGraph.xml
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ_án.Form1.resources
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.exe
+C:\Users\USER\Downloads\7 (1)\7\7\Đồ án (1)\Đồ án\obj\Debug\Đồ án.pdb
